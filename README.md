@@ -1,6 +1,6 @@
 # Projeto de API DDD com ABP Framework (.NET 7)
 
-Este é um projeto simples que implementa uma API baseada na arquitetura DDD (Domain-Driven Design) usando o ABP Framework. O objetivo deste projeto é permitir que você aplique e aprimore seus conhecimentos em DDD e ABP Framework, servindo como um playground para experimentação e aprendizado.
+Este é um projeto simples que implementa uma API baseada na arquitetura DDD (Domain-Driven Design) usando o ABP Framework. O objetivo deste projeto é permitir que eu aplique e aprimore meus conhecimentos em DDD e ABP Framework, servindo como um playground para experimentação e aprendizado.
 
 ## Visão Geral
 
@@ -9,6 +9,8 @@ O ABP Framework é um conjunto poderoso de ferramentas e estruturas que facilita
 ## Recursos
 
 - **Arquitetura DDD**: Este projeto segue os princípios da arquitetura DDD para organizar o código em torno de domínios claros e separados.
+  
+-  **Banco de Dados**: Por ser um projeto simples estou usando o SQLite.
 
 - **Camadas Claramente Definidas**: A aplicação é dividida em camadas, incluindo Domínio, Aplicação, Infraestrutura e API. Cada camada tem um propósito específico e mantém uma separação clara de responsabilidades.
 
