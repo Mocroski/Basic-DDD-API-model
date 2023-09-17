@@ -1,4 +1,4 @@
-# Projeto de API DDD com ABP Framework
+# Projeto de API DDD com ABP Framework (.NET 7)
 
 Este é um projeto simples que implementa uma API baseada na arquitetura DDD (Domain-Driven Design) usando o ABP Framework. O objetivo deste projeto é permitir que você aplique e aprimore seus conhecimentos em DDD e ABP Framework, servindo como um playground para experimentação e aprendizado.
 
