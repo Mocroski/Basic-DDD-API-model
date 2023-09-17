@@ -4,7 +4,7 @@ Este é um projeto simples que implementa uma API baseada na arquitetura DDD (Do
 
 ## Visão Geral
 
-O ABP Framework é um conjunto poderoso de ferramentas e estruturas que facilitam o desenvolvimento de aplicativos baseados em DDD. Neste projeto, exploraremos os conceitos essenciais do DDD e a forma como o ABP Framework simplifica a implementação desses conceitos em uma aplicação ASP.NET Core.
+O ABP Framework é um conjunto poderoso de ferramentas e estruturas que facilitam o desenvolvimento de aplicativos baseados em DDD. Neste projeto, explorarei os conceitos essenciais do DDD e a forma como o ABP Framework simplifica a implementação desses conceitos em uma aplicação ASP.NET Core.
 
 ## Recursos
 
